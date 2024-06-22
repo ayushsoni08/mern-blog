@@ -14,9 +14,9 @@ const About = () => {
               technology, coding, and everything in between.
             </p>
             <p>
-              On this blog, you'll find weekly articles and tutorials on topics
+              On this blog, you'll find articles and tutorials on topics
               such as web development, software engineering, and programming
-              languages. Sahand is always learning and exploring new
+              languages. Ayush is always learning and exploring new
               technologies, so be sure to check back often for new content!
             </p>
             <p>
